@@ -4,7 +4,7 @@
 <h1 align='center'>✯ JɪᴏTV Pʟᴀʏ Termux ✯</h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
-<!-- © 2021 TechieSneh -->
+<!-- © 2022 Koushik5025L -->
 
 <h4 align='center'>📺 The PHP Script For Grabb Streaming Links and Play it , This Works Only on Any Terminal & Termux Through LocalHost <br><br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Creadits<br>Don't Edit This Script 😈<br><br>Put Your Own Token In This Script</h4>
 <br>
@@ -14,7 +14,7 @@
 - HQ Streaming Free of Cost <br>
 - Will Works In 250, 400, 600, 800 in this Gives Qualities
 - Web Play Supports
-- TiviMate or PC Users can Also Use This [JIOTV PlayList.m3u](https://github.com/techiesneh/Sneh-JioTv-Termux/blob/main/sneh-jiotv/sneh-playlist.m3u)
+- TiviMate or PC Users can Also Use This [JIOTV PlayList.m3u](https://github.com/Koushik5025L/k114-JioTv-Termux/blob/main/k114-jiotv/k114-playlist.m3u)
 
 
 <br>
@@ -41,18 +41,18 @@ pkg install git php
 ```
 
 ```py
-git clone https://github.com/techiesneh/Sneh-JioTv-Termux.git
+git clone https://github.com/Koushik5025L/k114-JioTv-Termux.git
 ```
 
 ```py
-php -S localhost:8585 -t $HOME/Sneh-JioTv-Termux
+php -S localhost:8585 -t $HOME/k114-JioTv-Termux
 ```
   
   
 • Put Your Mobile Number with 91 & Password in Below Link <br>
 
 ```py
-http://localhost:8585/sneh-jiotv/acc.php?user=NUMBER&pass=PASSWORD
+http://localhost:8585/k114-jiotv/acc.php?user=NUMBER&pass=PASSWORD
 ```
 
 #### 😛 Genrate ssoToken Here :
@@ -69,10 +69,10 @@ http://localhost:8585/sneh-jiotv/acc.php?user=NUMBER&pass=PASSWORD
 • Now Run Your Local JioTV 😍<br>
 
   ```py
- http://localhost:8585/sneh-jiotv/index.php
+ http://localhost:8585/k114-jiotv/index.php
   ```
 
-• Open [JIOTV Termux PlayList.m3u](https://raw.githubusercontent.com/techiesneh/Sneh-JioTv-Termux/main/sneh-jiotv/playlist.m3u) in any IPTV Player . You Will See all Channels List <br>
+• Open [JIOTV Termux PlayList.m3u](https://raw.githubusercontent.com/Koushik5025L/k114-JioTv-Termux/main/sneh-jiotv/playlist.m3u) in any IPTV Player . You Will See all Channels List <br>
 
 • Click On Channel and Play <br>
 
@@ -81,9 +81,9 @@ http://localhost:8585/sneh-jiotv/acc.php?user=NUMBER&pass=PASSWORD
 • In Player Put Links Format Like Below
 
   ```py
-  [+] - http://localhost:8585/sneh-jiotv/jioo.php?c=Channel_Name&q=Quality
+  [+] - http://localhost:8585/k114-jiotv/jioo.php?c=Channel_Name&q=Quality
   
-  [+] - http://localhost:8585/sneh-jiotv/jioo.php?c=And_Pictures_HD&q=800
+  [+] - http://localhost:8585/k114-jiotv/jioo.php?c=And_Pictures_HD&q=800
   
   ```
   
@@ -96,14 +96,13 @@ http://localhost:8585/sneh-jiotv/acc.php?user=NUMBER&pass=PASSWORD
 
 <h3>🤗 Meet Me : </h3>
 
-• For any Support Join Our Group [Techie Sneh](https://t.me/techiesneh007)<br>
-• Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
+• For any Support Join Our Group [Koushik5025L](https://t.me/k114iptv433482)<br>
 
 <br>
 
 
 ---
-<h4 align='center'>© 2021 Techie Sneh</h4>
+<h4 align='center'>© 2022 Koushik5025L</h4>
 
 <!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
 
